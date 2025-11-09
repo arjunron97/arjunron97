@@ -263,6 +263,16 @@
 
 <p align="left">Data Collection -> Data Preparation -> Data Integration -> Visualization Development -> Dashboard Creation & Interactivity -> Insights and Publishing</p>
 
+
+<p align="center">
+  <img src="assets\Game Analysis.png" alt="GameAnalysis" width="800">
+</p>
+
+<p align="center">
+  <img src="assets\Medal Tally.png" alt="MedalTally" width="800">
+</p>
+
+
 ###
 
 <h4 align="left">Conclusion:</h4>
@@ -300,6 +310,18 @@
 ###
 
 <p align="left">The key components and tools include:<br><br>Hardware / IoT sensors:<br>A Raspberry Pi micro-computer acts as the central processing node for capturing and communicating sensor data. <br>A body-temperature sensor (LM35) used for precise measurement of a patient’s body temperature. <br>A pulse/heartbeat sensor module for tracking heart-rate / pulse rate from finger or ear placement.<br><br>Natural Language Processing & Chat-bot logic:<br>Voice input is first converted to text. Then preprocessing, tokenization, noun-phrase extraction, identification of medical terms, normalization to medical concepts are applied. <br>The chat-bot uses a knowledge base of symptom-to-disease associations (for fevers like chicken-pox, malaria, viral fever, septicemia etc) to answer user queries based on detected symptoms + sensor readings. <br><br>System integration:<br>The IoT sensor data (temperature, pulse) is sent to the cloud platform, where it is analyzed and combined with the NLP output to determine health status. <br>The overall system modules include (i) module for sensor data capture, (ii) module for voice/text-processing and term extraction, (iii) chat-bot module for question-answering / remedy suggestion.</p>
+
+<p align="center">
+  <img src="assets\MchatbotModule1.png" alt="Module1" width="800">
+</p>
+
+<p align="center">
+  <img src="assets\MchatbotModule2.png" alt="Module2" width="800">
+</p>
+
+<p align="center">
+  <img src="assets\MchatbotModule2.png" alt="Module2" width="800">
+</p>
 
 ###
 
