@@ -174,6 +174,10 @@
 
 <p align="left">Power BI Desktop: For creating interactive and visually appealing dashboards with data modeling and visualization.<br><br>Microsoft Excel: Used for initial data storage and preprocessing before importing into Power BI.<br><br>DAX (Data Analysis Expressions): For performing calculated measures such as total sales, discounts, and category-wise analysis.<br><br>Power Query Editor: For cleaning, transforming, and merging datasets to ensure consistency and accuracy.<br><br>Map Visualization: To display geographic insights on regional and state-wise sales performance.<br><br>Charts and KPIs: Bar charts, pie charts, and line graphs were used to represent monthly trends, gender distribution, and sales comparisons.</p>
 
+<p align="center">
+  <img src="assets\ECommerce.png" alt="Price" width="800">
+</p>
+
 ###
 
 <h4 align="left">Conclusion:</h4>
@@ -209,11 +213,11 @@
 <p align="left">Power BI Desktop: Main visualization tool used for creating interactive and dynamic dashboards.<br><br>Power Query Editor: Utilized for data cleaning, transformation, and merging multiple data sources.<br><br>Microsoft Excel / CSV Dataset: Used as the base data source for importing sales data into Power BI.<br><br>DAX (Data Analysis Expressions): Implemented for calculating total sales, average income, and other performance metrics.<br><br>Map Visualizations: Used to represent sales distribution by region and city for better geographical insights.<br><br>Charts & KPIs:<br>Bar charts – to display brand and model-wise sales.<br>Line charts – to show monthly and seasonal sales trends.<br>Donut charts – to visualize sales distribution by color and gender.<br>Scatter plots – to analyze relationships between price and quantity sold.</p>
 
 <p align="center">
-  <img src="assets\Price.png" alt="Price" width="600">
+  <img src="assets\Price.png" alt="Price" width="800">
 </p>
 
 <p align="center">
-  <img src="assets\Quantity.png" alt="Price" width="600">
+  <img src="assets\Quantity.png" alt="Price" width="800">
 </p>
 
 
