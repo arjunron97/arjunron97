@@ -134,6 +134,12 @@
 
 ###
 
+
+<p align="center">
+  <img src="assets\pathovision\Conceptual.png" alt="flow" width="800">
+</p>
+
+
 <h4 align="left">Tools and models:</h4>
 
 ###
@@ -142,7 +148,29 @@
 
 ###
 
+<p align="center">
+  <img src="assets/pathovision/loginpage.png" alt="login" width="800">
+</p>
 
+<p align="center">
+  <img src="assets\pathovision\imgupload.png" alt="upload" width="800">
+</p>
+
+<p align="center">
+  <img src="assets\pathovision\PneumoniaQ.png" alt="PneumoniaQ" width="800">
+</p>
+
+<p align="center">
+  <img src="assets\pathovision\CovidQ.png" alt="CovidQ" width="800">
+</p>
+
+<p align="center">
+  <img src="assets\pathovision\appointment.png" alt="appointment" width="800">
+</p>
+
+<p align="center">
+  <img src="assets\pathovision\result.png" alt="result" width="800">
+</p>
 
 <h4 align="left">Conclusion:</h4>
 
