@@ -208,6 +208,15 @@
 
 <p align="left">Power BI Desktop: Main visualization tool used for creating interactive and dynamic dashboards.<br><br>Power Query Editor: Utilized for data cleaning, transformation, and merging multiple data sources.<br><br>Microsoft Excel / CSV Dataset: Used as the base data source for importing sales data into Power BI.<br><br>DAX (Data Analysis Expressions): Implemented for calculating total sales, average income, and other performance metrics.<br><br>Map Visualizations: Used to represent sales distribution by region and city for better geographical insights.<br><br>Charts & KPIs:<br>Bar charts – to display brand and model-wise sales.<br>Line charts – to show monthly and seasonal sales trends.<br>Donut charts – to visualize sales distribution by color and gender.<br>Scatter plots – to analyze relationships between price and quantity sold.</p>
 
+<p align="center">
+  <img src="assets\Price.png" alt="Price" width="600">
+</p>
+
+<p align="center">
+  <img src="assets\Quantity.png" alt="Price" width="600">
+</p>
+
+
 ###
 
 <h4 align="left">Conclusion:</h4>
