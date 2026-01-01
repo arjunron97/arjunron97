@@ -439,7 +439,11 @@ Interactive slicers allow users to filter insights by age group, gender, occupat
 </p>
 
 <p align="center">
-  <img src="assets/Emotional_D_Matrix_Dashboard.png" alt="Emotional D-Matrix Dashboard" width="800">
+  <img src="assets/ELanalysis.png" alt="Emotional D-Matrix Dashboard" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/ELdemograph.png" alt="Emotional D-Matrix Dashboard" width="800">
 </p>
 
 ###
