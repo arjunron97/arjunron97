@@ -439,11 +439,11 @@ Interactive slicers allow users to filter insights by age group, gender, occupat
 </p>
 
 <p align="center">
-  <img src="assets/ELanalysis.png" alt="EL Analysis" width="800">
+  <img src="assets/ELanalysis" alt="EL Analysis" width="800">
 </p>
 
 <p align="center">
-  <img src="assets/ELdemograph.png" alt="EL Demography" width="800">
+  <img src="assets/ELdemograph" alt="EL Demography" width="800">
 </p>
 
 ###
