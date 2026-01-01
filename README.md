@@ -362,3 +362,98 @@
 <p align="left">The system demonstrates how IoT and AI (specifically chat-bots and NLP) can work together to deliver proactive healthcare support. The integration of sensor data and symptom-based text analytics enables a personalized interactive assistant that can detect types of fever and monitor vital signs. The authors argue that ubiquitous communication among devices and humans is becoming feasible in healthcare environments. <br><br>Who benefits / Beneficiaries:<br>Patients: They receive easier access to preliminary health screening (via sensors + chat-bot) and can be more engaged in their health monitoring, potentially catching problems earlier.<br>Healthcare providers / Clinics: The system can offload routine queries, monitor patients remotely, and provide alerts based on sensor + symptom data, improving workflow and patient care.<br>Researchers / Developers in Healthcare Technology: The approach provides a template for combining IoT + NLP in healthcare chat-bots, offering avenues for further enhancement (e.g., expanding disease coverage, improving accuracy).<br>Public Health / Remote Care Settings: In remote or underserved areas where access to doctors is limited, such systems help bridge the gap by providing low-cost, automated assistance and monitoring.<br><br>Overall, this research points toward a more connected, intelligent healthcare support ecosystem, improving responsiveness, scalability and patient empowerment.</p>
 
 ###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<h3 align="center">Emotional D-Matrix: Emotional Stress & Mood Swings Survey Analysis</h3>
+
+###
+
+<h4 align="left">Introduction:</h4>
+
+###
+
+<p align="left">
+The Emotional D-Matrix project is an end-to-end data analytics and visualization initiative focused on understanding emotional stress, mood swings, and emotional intelligence patterns across diverse demographic groups. The dataset was collected through a self-designed survey distributed via LinkedIn and Microsoft Forms, gathering responses from 211 participants across different age groups, occupations, living situations, and work or study schedules.
+<br><br>
+The objective of this project was to transform raw, unstructured survey responses into meaningful insights that highlight how factors such as family responsibilities, work hours, social influence, hormonal patterns, and free time impact emotional well-being. The final deliverable is an interactive Power BI dashboard that allows users to explore both demographic trends and emotional intelligence patterns in a clear, intuitive manner.
+</p>
+
+###
+
+<h4 align="left">Data Collection & Cleaning:</h4>
+
+###
+
+<p align="left">
+Survey data was collected using Microsoft Forms and shared through professional networks to ensure diverse participation. The raw dataset contained inconsistencies, missing values, and free-text responses that required preprocessing before analysis.
+<br><br>
+Data cleaning and preprocessing were performed using Python in Jupyter Notebook. This included handling null values, standardizing categorical variables, normalizing text responses, correcting inconsistent labels, and preparing the dataset for visualization. The cleaned dataset was then structured to support efficient modeling and analysis within Power BI.
+<br><br>
+The complete data cleaning workflow is documented in the following notebook:
+<br>
+<a href="https://github.com/arjunron97/Emotional-D-Matrix/blob/main/survey_data/data_cleaning.ipynb" target="_blank">
+Data Cleaning Notebook
+</a>
+</p>
+
+###
+
+<h4 align="left">Tools:</h4>
+
+###
+
+<p align="left">
+<strong>Power BI Desktop:</strong> Used to design interactive dashboards, perform data modeling, and create dynamic visualizations for emotional and demographic analysis.<br><br>
+<strong>Python (Pandas, NumPy):</strong> Utilized for data cleaning, transformation, and preprocessing in Jupyter Notebook.<br><br>
+<strong>Jupyter Notebook:</strong> For exploratory data analysis and reproducible data cleaning workflows.<br><br>
+<strong>Microsoft Forms:</strong> Used to design and distribute the survey questionnaire.<br><br>
+<strong>DAX (Data Analysis Expressions):</strong> Applied for calculated measures, percentages, and aggregations within Power BI.<br><br>
+<strong>Power Query Editor:</strong> Used to refine data transformations and ensure consistency between demographic and emotional variables.
+</p>
+
+###
+
+<h4 align="left">Dashboard Highlights:</h4>
+
+###
+
+<p align="left">
+The Power BI dashboard is divided into two major analytical views:
+<br><br>
+<strong>Demographic Analysis:</strong>
+• Gender distribution, age groups, occupation, living situation, and work or study schedules<br>
+• Participant segmentation to understand population diversity<br><br>
+<strong>Emotional Intelligence & Mood Analysis:</strong>
+• Frequency and duration of mood swings<br>
+• Impact of family responsibilities, social influence, and free time on mood<br>
+• Comfort levels in discussing mood swings (gender-based insights)<br>
+• Types of help sought (friends, counseling, family, medication)<br>
+• Word-cloud analysis highlighting primary emotional triggers and typical reactions
+<br><br>
+Interactive slicers allow users to filter insights by age group, gender, occupation, and living situation for deeper exploration.
+</p>
+
+<p align="center">
+  <img src="assets/Emotional_D_Matrix_Dashboard.png" alt="Emotional D-Matrix Dashboard" width="800">
+</p>
+
+###
+
+<h4 align="left">Conclusion:</h4>
+
+###
+
+<p align="left">
+The Emotional D-Matrix project demonstrates the practical application of data analytics and visualization techniques to a real-world mental health and emotional intelligence domain. By converting survey data into actionable insights, this project highlights how lifestyle, social environment, and responsibilities influence emotional well-being.
+<br><br>
+This dashboard can be valuable for researchers, mental health advocates, HR teams, and policymakers seeking data-driven perspectives on emotional stress patterns. From a technical standpoint, the project showcases skills in data collection, data cleaning, exploratory analysis, and interactive dashboard development using Power BI.
+<br><br>
+Overall, the project emphasizes the power of analytics in transforming human-centric data into meaningful insights that support awareness, decision-making, and emotional well-being initiatives.
+</p>
+
+###
