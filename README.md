@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">I am a Data Science graduate student at UNT and Ex- Senior Data Engineer with 4.6 years of expertise in data engineering, data analytics, database management and visualization. Skilled in building scalable ETL pipelines, developing innovative solutions, and transforming data into actionable insights using Python, SQL, Snowflake and Databricks. Adept at leveraging Power BI and Tableau to drive business decisions. Passionate about data-driven innovation and optimization.</p>
+<p align="center">Data Engineer and Data Science graduate student with 4.6 years of expertise in data engineering, data analytics, database management and visualization. Skilled in building scalable ETL pipelines, developing innovative solutions, and transforming data into actionable insights using AWS, Azure, GCP, Python, SQL, Snowflake and Databricks. Adept at leveraging Power BI and Tableau to drive business decisions. Passionate about data-driven innovation and optimization.</p>
 
 ###
 
